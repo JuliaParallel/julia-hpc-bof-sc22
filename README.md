@@ -1,3 +1,6 @@
+![plot](./assets/banner.png)
+
+
 # Julia for HPC Birds of a Feather session @ SC22
 
 This repository contains the brief talks presented during the the "[Julia for
